@@ -1,15 +1,16 @@
-id: opecha:P007956
+id: P007956
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25006
   title: བོད་མིའི་ཡུལ་སྲོལ་གོམས་གཤིས།
-  volume:
+  author: ''
+  volumes:
     e61d083dd6574946acb633144d8a8fcd:
       image_group_id: I1KG25008
       title: Volume 1 of bod mi'i yul srol goms gshis/
       volume_number: 1
       total_pages: 170
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་མིའི་ཡུལ་སྲོལ་གོམས་གཤིས།
   author: ''
